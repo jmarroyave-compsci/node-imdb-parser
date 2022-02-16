@@ -1,0 +1,334 @@
+{
+  "info": {
+    "id": "tt0804484",
+    "release": "2021-09-24T04:00:00.000Z",
+    "title": {
+      "default": "Foundation",
+      "original": null,
+      "akas": [
+        "Фундація"
+      ]
+    },
+    "onAir": "2021– ",
+    "classification": "TV-14",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "tv_show",
+    "tagline": "Change Your Fate",
+    "keywords": [
+      "racial diversity",
+      "human clone",
+      "emperor",
+      "strong female protagonist",
+      "extrasensory perception"
+    ],
+    "language": [
+      "English"
+    ],
+    "production": [
+      {
+        "name": "Skydance Television",
+        "href": "/company/co0562101?ref_=tt_dt_co_1"
+      },
+      {
+        "name": "Latina Pictures",
+        "href": "/company/co0181591?ref_=tt_dt_co_2"
+      },
+      {
+        "name": "Latina Pictures",
+        "href": "/company/co0181591?ref_=tt_dt_co_3"
+      }
+    ],
+    "filmLocations": "Troy Studios, Castletroy, County Limerick, Ireland",
+    "countryOfOrigin": "Ireland",
+    "ratings": {
+      "imdb": {
+        "rating": "7.4",
+        "votes": "48K"
+      },
+      "metascore": null
+    },
+    "tech": {
+      "color": [
+        "Color"
+      ],
+      "soundmix": [],
+      "aspectRatio": "2.00 : 1",
+      "runtime": "1 hour"
+    },
+    "links": {
+      "officialSite": []
+    }
+  },
+  "media": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MDY1MGUtMmMxNi00YjA3LWIyZTYtN2FhOWJmNTY2NmM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "trailer": "/video/vi853656345?playlistId=tt0804484&ref_=tt_ov_vi",
+    "photos": [
+      "https://m.media-amazon.com/images/M/MV5BZGY1ZTVhMWUtZDg1Zi00ODNmLTg2YTgtZWQ2MzBjZDI2YTQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjBkZmM5ZDAtNzIwNC00MjFjLTlkYjMtN2QxNTdjZTdmNGFjXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZThhNDlmMDAtOTU5Mi00N2Y0LWEzZTktMDlkMTNhOGRiOTFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY280_CR141,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGFkMzZkNjEtODZjOC00MDFjLTk2ODgtMjY2NjkxOTIxMmRjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOGUwMWIwZGQtNGE3Mi00MmYwLTkwNzYtOTRkMTBkYzJmNDM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNGU3NmVlYzAtYTdkYi00ZmJiLTg5NGYtMmNjYTM4ODg1ZjkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY280_CR109,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYTM0N2I4NjYtYjQ5MC00ZjYyLTg1YzQtYmNiMDliZWY5NjZjXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOTUyMDhiZjItMDM0MC00MTc0LTg1ZWEtOTJkNWJiNWNjYTU4XkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2U1MDgxNDQtMzFjNi00ZjBkLTlmMzMtMThiYjU1MjkxOGRiXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjk2ZTczMWEtNGEyNS00OTNjLTk1MGUtOWM2NWMwYzBjNTVmXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGY3OWNkMDEtMTVmNC00Y2Q2LTk5ZDctYTNiNmIzZjA2ODVkXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNTkzZTM0MWUtZjY2ZS00ZWNiLTlhYzktZmE4MmVmN2YwZTlmXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_QL75_UY280_CR140,0,280,280_.jpg"
+    ],
+    "videos": [
+      "/video/vi365347609/?ref_=tt_vi_i_1",
+      "/video/vi194298649/?ref_=tt_vi_i_2",
+      "/video/vi853656345/?ref_=tt_vi_i_3",
+      "/video/vi3668099865/?ref_=tt_vi_i_4",
+      "/video/vi4206805785/?ref_=tt_vi_i_5",
+      "/video/vi4173251353/?ref_=tt_vi_i_6",
+      "/video/vi3803890457/?ref_=tt_vi_i_7",
+      "/video/vi4217225241/?ref_=tt_vi_i_8",
+      "/video/vi3793141785/?ref_=tt_vi_i_9",
+      "/video/vi556776985/?ref_=tt_vi_i_10",
+      "/video/vi866698009/?ref_=tt_vi_i_11",
+      "/video/vi572243993/?ref_=tt_vi_i_12"
+    ]
+  },
+  "crew": {
+    "directors": [
+      {
+        "name": "Josh Friedman",
+        "id": "nm0295264"
+      },
+      {
+        "name": "David S. Goyer",
+        "id": "nm0275286"
+      },
+      {
+        "name": "Josh Friedman",
+        "id": "nm0295264"
+      },
+      {
+        "name": "David S. Goyer",
+        "id": "nm0275286"
+      }
+    ],
+    "stars": [
+      {
+        "name": "Lou Llobell",
+        "id": "nm10306608"
+      },
+      {
+        "name": "Jared Harris",
+        "id": "nm0364813"
+      },
+      {
+        "name": "Lee Pace",
+        "id": "nm1195855"
+      },
+      {
+        "name": "Lou Llobell",
+        "id": "nm10306608"
+      },
+      {
+        "name": "Jared Harris",
+        "id": "nm0364813"
+      },
+      {
+        "name": "Lee Pace",
+        "id": "nm1195855"
+      }
+    ],
+    "cast": [
+      {
+        "id": "nm10306608",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYTE1MzRmMjItMjViMi00ZjgzLTgzMGEtM2NjZGFjMDg3Yjk1XkEyXkFqcGdeQXVyODU0MTk3MjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Lou Llobell",
+        "episodes": "10 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm0364813",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BODgyOTdjZjAtYmI2MS00ZjdhLTk0NzMtNGRhYjI4NTE3MjBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR0,0,140,140_.jpg",
+        "name": "Jared Harris",
+        "episodes": "9 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm1195855",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BZmEzNDA3MDktZDdjMS00YTNjLTg1ZmUtMWIxZGNlMzY3OGU5XkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Lee Pace",
+        "episodes": "9 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm3238246",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BZTNjMjEyODAtM2RjMC00OTcxLWFiNzUtMzI0OTBjMmMyMWNlXkEyXkFqcGdeQXVyMjIwMDc4MDc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Leah Harvey",
+        "episodes": "9 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm0066885",
+        "name": "Sasha Behar",
+        "episodes": "9 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm1285342",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOTFhMWMxZTEtNzk5Yy00OGMwLWIyYWEtZjFiOWE4MTk3Zjk4XkEyXkFqcGdeQXVyMzU3Njk2OTM@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+        "name": "Laura Birn",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm0542994",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTU0MjMyNTQwNF5BMl5BanBnXkFtZTYwNjk2MjQ3._V1_QL75_UX140_CR0,11,140,140_.jpg",
+        "name": "Terrence Mann",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm1259002",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTM4MjM3Mzg3OF5BMl5BanBnXkFtZTcwMTc5OTAyOQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Elliot Cowan",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm0534205",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMmIxOGY5ZmMtMWU3OC00ZjMzLWJiYWQtMDhhYTFlZjhmZWNlXkEyXkFqcGdeQXVyMTg2OTUzNTQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Daniel MacPherson",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm3591303",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYjgwNDZlZGQtZjFiNy00ODQ5LWEzZGUtNWQzNDc4M2QxNmZiXkEyXkFqcGdeQXVyMjIxODkxMzk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Kubbra Sait",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm5236786",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMDRlNWY4MTUtNWMyNC00Y2M5LThhOTItOTk4YTJkM2M5MjFhXkEyXkFqcGdeQXVyOTg1MzUzOTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Pravessh Rana",
+        "episodes": "8 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm8337567",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYmM1ZTFjMDItN2ZlOS00ZDBhLThmODYtYjQ1YTZkMGZiOGZjXkEyXkFqcGdeQXVyNjgwNTEyMzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Nikhil Parmar",
+        "episodes": "7 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm8653960",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYjZjN2Q5ZDMtYmI2ZC00ODkwLTliZGEtOGQxZDQ5ZjVmYTYwXkEyXkFqcGdeQXVyNTc4Mzk2OTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Cassian Bilton",
+        "episodes": "6 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm10774074",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BM2ZhNTI1MGQtZTJkZS00NzhiLTlhOTEtZGQ4ZjYyYzg4NmFlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "name": "Jairaj Varsani",
+        "episodes": "6 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm8049677",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOTdmM2RkZTctNDg5OC00N2NlLWI1MzItZDUxMjhjZTI2NmEyXkEyXkFqcGdeQXVyMTI1Mjg0NjUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Chloe Lea",
+        "episodes": "6 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm0676370",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTM2ODgwNDAxNF5BMl5BanBnXkFtZTcwNDc1MzMwNQ@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+        "name": "Clarke Peters",
+        "episodes": "6 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm5017322",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjUzMzZmM2ItNGFlZi00NGMwLTg4OTQtMWFjYWRmOTRlY2FjXkEyXkFqcGdeQXVyNjA4Mzc0MDc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Amy Tyger",
+        "episodes": "5 eps",
+        "year": "2021"
+      },
+      {
+        "id": "nm6603672",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYjYwMzkyOTQtOTI0ZS00YjRhLTg2NmUtZDFlZDM1MzAxOTIyXkEyXkFqcGdeQXVyMTE0MjM4OTkw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Buddy Skelton",
+        "episodes": "5 eps",
+        "year": "2021"
+      }
+    ]
+  },
+  "related": [
+    {
+      "id": "tt9737326",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGQ3M2VmZTEtOTlkZC00ZmIzLWFhZjktZDA4NTE0Mzk2OTU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "Invasion"
+    },
+    {
+      "id": "tt7949218",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2JkM2Y5NTEtZWIwZS00ZTliLTk3MDMtNzY4MDNkNjg0NTkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "See"
+    },
+    {
+      "id": "tt7772588",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDMwODYyM2ItZjNlYi00YzAzLTliODItYWFkOWJiMzVhOTY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+      "title": "For All Mankind"
+    },
+    {
+      "id": "tt7462410",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "The Wheel of Time"
+    },
+    {
+      "id": "tt3420504",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "Finch"
+    },
+    {
+      "id": "tt3230854",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDVmMDljM2QtZDkzZC00ZDg2LWFiMGItZjNiNjliZjg2MGEzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+      "title": "The Expanse"
+    },
+    {
+      "id": "tt9170108",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzk0ZTZlOGItMjQ0MC00YzYyLWIwYjgtMGM4NDdkOTlhYzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "Raised by Wolves"
+    },
+    {
+      "id": "tt2261227",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjIxMWMzMzctYmZkYy00OTkzLWFlMWUtMjc3ZDFmYzQ3YmVkXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+      "title": "Altered Carbon"
+    },
+    {
+      "id": "tt0489974",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzIwM2FkMmEtNjQyZC00YThmLTg3ZjQtZGIyMWE3NjQwYTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "Carnival Row"
+    },
+    {
+      "id": "tt7203552",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDhmM2NhNmItOTkzNi00NDMwLTk1M2EtZDdjMDE1NTJkNjE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "The Morning Show"
+    },
+    {
+      "id": "tt2403776",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY207_CR13,0,140,207_.jpg",
+      "title": "Shadow and Bone"
+    },
+    {
+      "id": "tt11041132",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjg2YTFjMzAtNTU1My00MWY2LTg4OGEtNmE5YjFhZjY2ZDlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "The Mosquito Coast"
+    }
+  ],
+  "seasons": [],
+  "version": 3
+}
