@@ -1,29 +1,211 @@
 {
-  "title": "1997",
-  "originalTitle": null,
-  "release": "2021-01-01T05:00:00.000Z",
-  "runtime": "2021–",
-  "genre": [
-    "Sci-Fi"
-  ],
-  "plot": "When a group of college kids plan to make a trip into a part of the woods called 'Ghost Trail', strange occurrences start to happen. They quickly find out that the legend behind the woods is more then just \"a story\".",
-  "director": [
-    "McClinton Allen",
-    "Bryson Bonta",
-    "Monterio Caldwell"
-  ],
-  "stars": [
-    "McClinton Allen",
-    "Bryson Bonta",
-    "Monterio Caldwell"
-  ],
-  "hero": {
-    "media": {
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTA5OTkzYTAtNzIwMy00NTFiLTg0NzgtYWUyM2JmZTdlNDA5XkEyXkFqcGdeQXVyMTI0MzUzNjM4._V1_QL75_UY562_CR21,0,380,562_.jpg",
-      "trailer": null
+  "info": {
+    "id": "tt13675894",
+    "release": "2021-01-01T05:00:00.000Z",
+    "title": {
+      "default": "1997",
+      "original": null,
+      "akas": []
+    },
+    "onAir": "2021– ",
+    "classification": "",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "type": "tv_show",
+    "tagline": "",
+    "keywords": [],
+    "language": [
+      "English"
+    ],
+    "production": [
+      {
+        "name": "Topshooter",
+        "href": "/company/co0801373?ref_=tt_dt_co_1"
+      }
+    ],
+    "filmLocations": "",
+    "countryOfOrigin": "United States",
+    "ratings": {
+      "imdb": {
+        "rating": "",
+        "votes": ""
+      },
+      "metascore": null
+    },
+    "tech": {
+      "color": [
+        "Color"
+      ],
+      "soundmix": [],
+      "aspectRatio": "",
+      "runtime": ""
+    },
+    "links": {
+      "officialSite": [
+        "official site"
+      ]
     }
   },
-  "moreLikeThis": [
+  "media": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5OTkzYTAtNzIwMy00NTFiLTg0NzgtYWUyM2JmZTdlNDA5XkEyXkFqcGdeQXVyMTI0MzUzNjM4._V1_QL75_UY562_CR21,0,380,562_.jpg",
+    "photos": [],
+    "videos": []
+  },
+  "crew": {
+    "directors": [
+      {
+        "name": "McClinton Allen",
+        "id": "nm12161343"
+      },
+      {
+        "name": "Bryson Bonta",
+        "id": "nm9692676"
+      },
+      {
+        "name": "Monterio Caldwell",
+        "id": "nm9891091"
+      },
+      {
+        "name": "McClinton Allen",
+        "id": "nm12161343"
+      },
+      {
+        "name": "Bryson Bonta",
+        "id": "nm9692676"
+      },
+      {
+        "name": "Monterio Caldwell",
+        "id": "nm9891091"
+      }
+    ],
+    "stars": [
+      {
+        "name": "McClinton Allen",
+        "id": "nm12161343"
+      },
+      {
+        "name": "Bryson Bonta",
+        "id": "nm9692676"
+      },
+      {
+        "name": "Monterio Caldwell",
+        "id": "nm9891091"
+      },
+      {
+        "name": "McClinton Allen",
+        "id": "nm12161343"
+      },
+      {
+        "name": "Bryson Bonta",
+        "id": "nm9692676"
+      },
+      {
+        "name": "Monterio Caldwell",
+        "id": "nm9891091"
+      }
+    ],
+    "cast": [
+      {
+        "id": "nm12161343",
+        "name": "McClinton Allen",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm9692676",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNDg1Njc4MjktNjc1ZS00YzIzLTg3NGQtNzQ2ZTBmNmNhZmRlXkEyXkFqcGdeQXVyOTkwOTk5NDU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Bryson Bonta",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm9891091",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMDA3MWZlMTMtNDhhYy00MTliLWJhMTItYTQyYTkwNzIyZDAxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+        "name": "Monterio Caldwell",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm12161345",
+        "name": "Giovonne Cardoza",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm11599417",
+        "name": "Brice Chaney",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm10461003",
+        "name": "Katrina Do",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm12161346",
+        "name": "Hailey",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm4151111",
+        "name": "Whitney Lavaux",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm10710994",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMmVmODljOTItNGYyNi00OWYxLTgxYmMtZWRjN2QwMzhjMzQwXkEyXkFqcGdeQXVyOTg0NjI2NDQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "RaVón Miles",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm12161347",
+        "name": "Anton Mitchell",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm10227414",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOGJjZjljMmItNTY3ZS00MzUyLWI3YTUtZTE1MThlNGY3NDBhXkEyXkFqcGdeQXVyOTQ1ODQwNTQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Kimberly D Norton",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm12161344",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BODA2OWNkYmQtYzBlZS00YjM0LTg4ZmUtZjQ2MjkxYjQ1ODkxXkEyXkFqcGdeQXVyMTI5Mzc0OTM3._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Lilyana Nowicki",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm5334881",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMmQ1NGJlOGEtOWM4Zi00ZTJiLTkwZDgtOThmZmNmNjc2NDY0XkEyXkFqcGdeQXVyMTAzMzYyODky._V1_QL75_UX140_CR0,6,140,140_.jpg",
+        "name": "Tashi Simmons",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm10731356",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BY2E4ZTkzNTMtNmJiMi00ZWI1LWI4MTUtZjM3MWRmYzU1NGE2XkEyXkFqcGdeQXVyOTk5MTI1MzA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Katrina Tameling",
+        "episodes": "",
+        "year": ""
+      },
+      {
+        "id": "nm10049608",
+        "name": "Jeanette Wilson",
+        "episodes": "",
+        "year": ""
+      }
+    ]
+  },
+  "related": [
     {
       "id": "tt12366652",
       "poster": "https://m.media-amazon.com/images/M/MV5BOGQwNjNiODgtOWFjOS00ZGIyLWExNWQtNTVhYTlhMDIwNzQyXkEyXkFqcGdeQXVyMjg1MDY2MTM@._V1_QL75_UY207_CR49,0,140,207_.jpg",
@@ -50,126 +232,6 @@
       "title": "Schindler's List"
     }
   ],
-  "cast": [
-    {
-      "id": "nm12161343",
-      "name": "McClinton Allen",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm9692676",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BNDg1Njc4MjktNjc1ZS00YzIzLTg3NGQtNzQ2ZTBmNmNhZmRlXkEyXkFqcGdeQXVyOTkwOTk5NDU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
-      "name": "Bryson Bonta",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm9891091",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BMDA3MWZlMTMtNDhhYy00MTliLWJhMTItYTQyYTkwNzIyZDAxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
-      "name": "Monterio Caldwell",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm12161345",
-      "name": "Giovonne Cardoza",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm11599417",
-      "name": "Brice Chaney",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm10461003",
-      "name": "Katrina Do",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm12161346",
-      "name": "Hailey",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm4151111",
-      "name": "Whitney Lavaux",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm10710994",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BMmVmODljOTItNGYyNi00OWYxLTgxYmMtZWRjN2QwMzhjMzQwXkEyXkFqcGdeQXVyOTg0NjI2NDQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
-      "name": "RaVón Miles",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm12161347",
-      "name": "Anton Mitchell",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm10227414",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BOGJjZjljMmItNTY3ZS00MzUyLWI3YTUtZTE1MThlNGY3NDBhXkEyXkFqcGdeQXVyOTQ1ODQwNTQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
-      "name": "Kimberly D Norton",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm12161344",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BODA2OWNkYmQtYzBlZS00YjM0LTg4ZmUtZjQ2MjkxYjQ1ODkxXkEyXkFqcGdeQXVyMTI5Mzc0OTM3._V1_QL75_UX140_CR0,12,140,140_.jpg",
-      "name": "Lilyana Nowicki",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm5334881",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BMmQ1NGJlOGEtOWM4Zi00ZTJiLTkwZDgtOThmZmNmNjc2NDY0XkEyXkFqcGdeQXVyMTAzMzYyODky._V1_QL75_UX140_CR0,6,140,140_.jpg",
-      "name": "Tashi Simmons",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm10731356",
-      "avatar": "https://m.media-amazon.com/images/M/MV5BY2E4ZTkzNTMtNmJiMi00ZWI1LWI4MTUtZjM3MWRmYzU1NGE2XkEyXkFqcGdeQXVyOTk5MTI1MzA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
-      "name": "Katrina Tameling",
-      "episodes": "",
-      "year": ""
-    },
-    {
-      "id": "nm10049608",
-      "name": "Jeanette Wilson",
-      "episodes": "",
-      "year": ""
-    }
-  ],
-  "metascore": null,
-  "imdbRating": "",
-  "imdbVotes": "",
-  "imdbID": "tt13675894",
-  "type": "tv_show",
-  "tagline": "",
-  "sl_plot_keywords": [],
-  "language": [
-    "English"
-  ],
-  "production": [
-    "Topshooter"
-  ],
-  "officialSite": [
-    "official site"
-  ],
-  "akas": [],
-  "tech_color": [
-    "Color"
-  ],
-  "tech_soundmix": [],
   "seasons": [],
   "version": 3
 }

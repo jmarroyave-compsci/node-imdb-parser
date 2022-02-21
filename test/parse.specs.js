@@ -25,4 +25,10 @@ describe(`Parsing a title's page`, function() {
     assert.equal(JSON.stringify(resp), JSON.stringify(expected))
   });    
 
+  it(`Test Case 4`, function() {
+    const caseNumber = 4
+    const resp = parseTitle(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
 });

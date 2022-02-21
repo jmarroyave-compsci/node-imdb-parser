@@ -1,43 +1,65 @@
 {
-  "title": "#08527",
-  "originalTitle": null,
-  "release": "2021-11-27T05:00:00.000Z",
-  "runtime": "2021–",
-  "genre": [
-    "Drama"
-  ],
-  "plot": "Over ambitious high school athlete gets into an altercation his coach and decides to leave for private school.",
-  "director": [],
-  "stars": [],
-  "hero": {
-    "media": {
-      "poster": "https://m.media-amazon.com/images/M/MV5BMmNkYzU0YTEtNTBiOC00M2U4LTk3N2MtN2IyMTdmY2YzNTE0XkEyXkFqcGdeQXVyOTQyMTkzMDU@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-      "trailer": null
+  "info": {
+    "id": "tt13396124",
+    "release": "2021-11-27T05:00:00.000Z",
+    "title": {
+      "default": "#08527",
+      "original": null,
+      "akas": []
+    },
+    "onAir": "2021– ",
+    "classification": "",
+    "genres": [
+      "Drama"
+    ],
+    "type": "tv_show",
+    "tagline": "",
+    "keywords": [],
+    "language": [
+      "English"
+    ],
+    "production": [
+      {
+        "name": "Mahvrick Global Ventures",
+        "href": "/company/co0772499?ref_=tt_dt_co_1"
+      }
+    ],
+    "filmLocations": "",
+    "countryOfOrigin": "United States",
+    "ratings": {
+      "imdb": {
+        "rating": "",
+        "votes": ""
+      },
+      "metascore": null
+    },
+    "tech": {
+      "color": [
+        "Color"
+      ],
+      "soundmix": [],
+      "aspectRatio": "",
+      "runtime": ""
+    },
+    "links": {
+      "officialSite": [
+        "M12 TV"
+      ]
     }
   },
-  "moreLikeThis": [],
-  "cast": [],
-  "metascore": null,
-  "imdbRating": "",
-  "imdbVotes": "",
-  "imdbID": "tt13396124",
-  "type": "tv_show",
-  "tagline": "",
-  "sl_plot_keywords": [],
-  "language": [
-    "English"
-  ],
-  "production": [
-    "Mahvrick Global Ventures"
-  ],
-  "officialSite": [
-    "M12 TV"
-  ],
-  "akas": [],
-  "tech_color": [
-    "Color"
-  ],
-  "tech_soundmix": [],
+  "media": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNkYzU0YTEtNTBiOC00M2U4LTk3N2MtN2IyMTdmY2YzNTE0XkEyXkFqcGdeQXVyOTQyMTkzMDU@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+    "photos": [
+      "https://m.media-amazon.com/images/M/MV5BZmRjZDg5OTktYmNmMC00NDczLTg1NDctZmVjOTVjY2U3ODIwXkEyXkFqcGdeQXVyOTQyMTkzMDU@._V1_QL75_UY280_CR3,0,280,280_.jpg"
+    ],
+    "videos": []
+  },
+  "crew": {
+    "directors": [],
+    "stars": [],
+    "cast": []
+  },
+  "related": [],
   "seasons": [
     1,
     2
