@@ -1,6 +1,6 @@
 # node-imdb-parser
 
-A html parser for imdb 
+A html parser for imdb pages
 
 # Badges
 
