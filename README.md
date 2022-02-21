@@ -20,7 +20,7 @@ or ES6 `import`
 import { IMDBParser } from 'node-imdb-parser'
 ```
 
-Call `get` to get a single movie
+Call `title` to parse a movie page
 ```js
 const parse = new IMDBParser()
 
