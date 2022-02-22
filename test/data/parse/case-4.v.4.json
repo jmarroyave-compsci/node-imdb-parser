@@ -9,7 +9,7 @@
         "La guerra de las estrellas"
       ]
     },
-    "onAir": "PG",
+    "onAir": "1977",
     "classification": "Rated PG for sci-fi violence and brief mild language",
     "genres": [
       "Action",
@@ -55,8 +55,14 @@
     },
     "links": {
       "officialSite": [
-        "Disney+ Hotstar",
-        "Lucasfilm Ltd. (United States)"
+        {
+          "name": "Disney+ Hotstar",
+          "href": "https://www.hotstar.com/id/movies/star-wars-a-new-hope/1260016021"
+        },
+        {
+          "name": "Lucasfilm Ltd. (United States)",
+          "href": "https://www.lucasfilm.com/productions/episode-iv/"
+        }
       ]
     }
   },
@@ -97,25 +103,9 @@
       {
         "name": "George Lucas",
         "id": "nm0000184"
-      },
-      {
-        "name": "George Lucas",
-        "id": "nm0000184"
       }
     ],
     "stars": [
-      {
-        "name": "Mark Hamill",
-        "id": "nm0000434"
-      },
-      {
-        "name": "Harrison Ford",
-        "id": "nm0000148"
-      },
-      {
-        "name": "Carrie Fisher",
-        "id": "nm0000402"
-      },
       {
         "name": "Mark Hamill",
         "id": "nm0000434"
@@ -321,5 +311,5 @@
     }
   ],
   "seasons": [],
-  "version": 3
+  "version": 4
 }

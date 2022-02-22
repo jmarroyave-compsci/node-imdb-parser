@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Scrape data from IMDB.",
   "main": "./lib/index.js",
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "mocha 'test/**/*.specs.js'"
   },
@@ -12,6 +12,7 @@
   "dependencies": {
     "@jmarroyave/fw-console": "^1.0.15",
     "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^3.2.0",
     "querystring": "^0.2.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
