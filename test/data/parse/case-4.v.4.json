@@ -1,6 +1,6 @@
 {
+  "id": "tt0076759",
   "info": {
-    "id": "tt0076759",
     "release": "1977-05-25T04:00:00.000Z",
     "title": {
       "default": "Star Wars",
@@ -11,6 +11,7 @@
     },
     "onAir": "1977",
     "classification": "Rated PG for sci-fi violence and brief mild language",
+    "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
     "genres": [
       "Action",
       "Adventure",

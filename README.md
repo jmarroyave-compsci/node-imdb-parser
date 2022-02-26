@@ -34,7 +34,17 @@ Movie {
 }
 ```
 
-# Parser versions
+# Parsers included
+
+## title
+
+title( htmlText, [site_version] )
+
+## title / keywords
+
+titleKeywords( htmlText, [site_version] )
+
+# Site versions
 
 ## 2021 - A
 
@@ -44,6 +54,7 @@ Movie {
 
 
 ```json
+### title
 {
   "info": {
     "id": "tt0076759",
