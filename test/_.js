@@ -24,3 +24,11 @@ export const parseTitleKeywords = async( caseNumber ) => {
   saveResp( caseNumber, resp )
   return resp
 } 
+
+export const parseTitleEpisodes = async( caseNumber ) => {
+  const parser = new IMDBParser();
+  const html = getCase(caseNumber);
+  const resp = await parser.titleEpisodes( html )
+  saveResp( caseNumber, resp )
+  return resp
+} 
