@@ -1,0 +1,249 @@
+{
+  "season": 8,
+  "numberOfEpisodes": 22,
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQwNjAyNTYzMV5BMl5BanBnXkFtZTcwODUwMTc4Ng@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Twenty Vicodin",
+      "rating": {
+        "rating": 8.8,
+        "votes": 2875
+      },
+      "onAir": "2011-10-03T00:00:00.000Z",
+      "plot": "House gets parole at his hearing, but he still has to survive 5 more days in a prison filled with violent criminals. One of them wants 20 Vicodin \"or else\". He helps the prison doctor diagnose a patient."
+    },
+    {
+      "episodeNumber": 2,
+      "img": "https://m.media-amazon.com/images/M/MV5BNTc4ODQ4Nzc3N15BMl5BanBnXkFtZTgwOTY3MTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Transplant",
+      "rating": {
+        "rating": 8.1,
+        "votes": 2042
+      },
+      "onAir": "2011-10-10T00:00:00.000Z",
+      "plot": "A surprising visitor makes House an offer he can't refuse by giving him the opportunity to help the Princeton Plainsboro team treat a unique patient in order to save the life of an organ recipient being administered by Wilson. Although House finds himself back on familiar ground, he quickly realizes that much has changed since he left, and he is forced to work on the case with smart yet timid resident Dr. Chi Park. After several inconclusive treatments and with time running out, House and Dr. Park are left with one last option to examine the patient's medical history ..."
+    },
+    {
+      "episodeNumber": 3,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjAxNDg2NzYzOF5BMl5BanBnXkFtZTcwNzA1NzI5Ng@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Charity Case",
+      "rating": {
+        "rating": 8.2,
+        "votes": 1976
+      },
+      "onAir": "2011-10-17T00:00:00.000Z",
+      "plot": "When Benjamin suddenly collapses after making a rare and generous donation, House and Dr. Chi Park are convinced that his extreme altruistic behavior may indicate a deeper medical disorder. With no definitive explanation for Benjamin's loss of consciousness and unresponsiveness to treatment, House pushes just the right buttons to recruit former prison doctor Jessica Adams to volunteer her time and expertise to the case. Benjamin then makes a bold but life-threatening offer that could save another life, and the team must diagnose his disorder before he puts his own ..."
+    },
+    {
+      "episodeNumber": 4,
+      "img": "https://m.media-amazon.com/images/M/MV5BOTQ3NTcxNTkzNF5BMl5BanBnXkFtZTgwNjg5NjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Risky Business",
+      "rating": {
+        "rating": 7.9,
+        "votes": 1824
+      },
+      "onAir": "2011-10-31T00:00:00.000Z",
+      "plot": "A businessman, about to move 1000s of jobs to China, needs to see a doctor. House needs a donation. Park bets with House on not getting fired. House tries to raise funds for insider trading in his patient's company."
+    },
+    {
+      "episodeNumber": 5,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjAzMTY2MDAyMl5BMl5BanBnXkFtZTgwMjU5ODEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "The Confession",
+      "rating": {
+        "rating": 8.4,
+        "votes": 1897
+      },
+      "onAir": "2011-11-07T00:00:00.000Z",
+      "plot": "There's money now to hire Chase, Taub and Adams. A \"model citizen\" gets a seizure while cheating on his wife in a motel. He's House's new team's first patient. Is Taub dad to any of \"his\" two babies?"
+    },
+    {
+      "episodeNumber": 6,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTk1NDYwNTQzMl5BMl5BanBnXkFtZTcwOTk2MDUwNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Parents",
+      "rating": {
+        "rating": 7.9,
+        "votes": 1714
+      },
+      "onAir": "2011-11-14T00:00:00.000Z",
+      "plot": "A teenage boy attempting to follow in his late father's footsteps as an entertainer is admitted to Princeton Plainsboro with partial paralysis. As the team searches for a bone marrow match, they uncover a disturbing family secret. Meanwhile, House looks for creative ways to remove his ankle monitor so that he can attend a boxing match in Atlantic City, and he treats a patient who is convinced he is suffering from diabetes. Also, Taub faces a tough decision when his ex-wife Rachel tells him that she wants to move across the country with their infant daughter."
+    },
+    {
+      "episodeNumber": 7,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTU4NDc5NTMzMV5BMl5BanBnXkFtZTcwMDAwMDYwNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Dead & Buried",
+      "rating": {
+        "rating": 8.2,
+        "votes": 1803
+      },
+      "onAir": "2011-11-21T00:00:00.000Z",
+      "plot": "House is more interested in a case that Foreman brings of a 4 year old dead boy than the 14 year old live girl. The team takes care of her while he sees the boy's dad and corpse."
+    },
+    {
+      "episodeNumber": 8,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQxODAzMDc0MF5BMl5BanBnXkFtZTcwMzk5OTUwNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Perils of Paranoia",
+      "rating": {
+        "rating": 7.8,
+        "votes": 1757
+      },
+      "onAir": "2011-11-28T00:00:00.000Z",
+      "plot": "A prosecutor in court thinks, he has a heart attack. Is it an anxiety attack? He has an arsenal hidden from his wife in their home. Taub tries to fix Foreman up with a nurse."
+    },
+    {
+      "episodeNumber": 9,
+      "img": "https://m.media-amazon.com/images/M/MV5BOTYxNjEyODQyMV5BMl5BanBnXkFtZTcwMzQ2OTgyNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Better Half",
+      "rating": {
+        "rating": 8,
+        "votes": 1796
+      },
+      "onAir": "2012-01-23T00:00:00.000Z",
+      "plot": "A man with Alzheimer's is offered a trial treatment after which he pukes blood. He ends with House and co. His wife claims to have an asexual marriage. House doesn't believe in asexual and bets Wilson."
+    },
+    {
+      "episodeNumber": 10,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTgzNTM4MjI1MF5BMl5BanBnXkFtZTcwNTE2OTIzNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Runaways",
+      "rating": {
+        "rating": 7.7,
+        "votes": 1728
+      },
+      "onAir": "2012-01-30T00:00:00.000Z",
+      "plot": "A runaway girl thinks she has asthma. While seeing House, her ear starts bleeding. Further treatment requires adult consent or social services. House enjoys not having an ankle monitor."
+    },
+    {
+      "episodeNumber": 11,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzExM15BMl5BanBnXkFtZTcwMTI2MDYzNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Nobody's Fault",
+      "rating": {
+        "rating": 9.1,
+        "votes": 2861
+      },
+      "onAir": "2012-02-06T00:00:00.000Z",
+      "plot": "When a violent incident involving a patient has serious consequences for one staff member, House and the team are placed under review by Dr. Walter Cofield, Foreman's former mentor and current Chief of Neurology. As House and each member of his team recount the details of the dramatic and life-threatening incident, Cofield must weigh the team's unconventional brand of collaboration against their ability to save lives."
+    },
+    {
+      "episodeNumber": 12,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTkzMjk2NjUxNl5BMl5BanBnXkFtZTcwMDc4MTA0Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Chase",
+      "rating": {
+        "rating": 8.8,
+        "votes": 2416
+      },
+      "onAir": "2012-02-13T00:00:00.000Z",
+      "plot": "Chase is back. His first patient is a cute nun about to make her final vow. While still blaming House, he needs his help with his patient. House and Taub try to one-up each other with pranks."
+    },
+    {
+      "episodeNumber": 13,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjEzMTMwNTMzNV5BMl5BanBnXkFtZTcwNDI4MjM0Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Man of the House",
+      "rating": {
+        "rating": 8,
+        "votes": 1713
+      },
+      "onAir": "2012-02-20T00:00:00.000Z",
+      "plot": "A marriage counselor collapses during a speaking engagement, but when he is put under close evaluation, the team notice changes in his behavior that conflict with his motivational message on the roles of men and women. Meanwhile, House and his Ukrainian \"wife\" Dominika make a deal to convince Immigration that they are a happily married couple. Also, House decides to name a team leader."
+    },
+    {
+      "episodeNumber": 14,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTU0Mjc5MzY1OV5BMl5BanBnXkFtZTcwNTA4MjM0Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Love Is Blind",
+      "rating": {
+        "rating": 7.9,
+        "votes": 1790
+      },
+      "onAir": "2012-03-19T00:00:00.000Z",
+      "plot": "A blind man has just bought an engagement ring when his hearing gets super sensitive. Seizure? House's mom drops by with a surprise. Park has an LSD trip."
+    },
+    {
+      "episodeNumber": 15,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTcxODMwMDE2NF5BMl5BanBnXkFtZTcwNzg3MDE2Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Blowing the Whistle",
+      "rating": {
+        "rating": 7.4,
+        "votes": 1705
+      },
+      "onAir": "2012-04-02T00:00:00.000Z",
+      "plot": "A patient is caught between family and a code of honor."
+    },
+    {
+      "episodeNumber": 16,
+      "img": "https://m.media-amazon.com/images/M/MV5BOTE1MzM3MzQ2Ml5BMl5BanBnXkFtZTcwMjc3MDE2Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Gut Check",
+      "rating": {
+        "rating": 7.6,
+        "votes": 1701
+      },
+      "onAir": "2012-04-09T00:00:00.000Z",
+      "plot": "A hockey player's on-ice fighting takes a turn for the worse."
+    },
+    {
+      "episodeNumber": 17,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTM3Nzk4NDI2NV5BMl5BanBnXkFtZTcwNzI2Mzc2Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "We Need the Eggs",
+      "rating": {
+        "rating": 7.8,
+        "votes": 1731
+      },
+      "onAir": "2012-04-16T00:00:00.000Z",
+      "plot": "House and the team take on the case of a man who starts tearing blood. Meanwhile, House is interviewing for a new favorite hooker, since his current favorite, Emily, has decided to get married and leave the business. Desperate for Emily \"companionship,\" House teams up with his \"wife\" Dominika to sabotage Emily's budding relationship."
+    },
+    {
+      "episodeNumber": 18,
+      "img": "https://m.media-amazon.com/images/M/MV5BNDA5MjgwNDYzOV5BMl5BanBnXkFtZTcwNzQ2Mzc2Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Body and Soul",
+      "rating": {
+        "rating": 7.9,
+        "votes": 1845
+      },
+      "onAir": "2012-04-23T00:00:00.000Z",
+      "plot": "The team analyzes the significance of dreams."
+    },
+    {
+      "episodeNumber": 19,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjUyNzcwMjk0M15BMl5BanBnXkFtZTcwMTAzMjM3Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "The C Word",
+      "rating": {
+        "rating": 9,
+        "votes": 2664
+      },
+      "onAir": "2012-04-30T00:00:00.000Z",
+      "plot": "6 y.o. Emily gets a nose bleed and faints. Her dad gets her to the hospital, her mom's a doctor. Wilson has cancer, House is there for him."
+    },
+    {
+      "episodeNumber": 20,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTc4MjAwMTk4Ml5BMl5BanBnXkFtZTcwNTkyMjM3Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Post Mortem",
+      "rating": {
+        "rating": 8.7,
+        "votes": 2068
+      },
+      "onAir": "2012-05-07T00:00:00.000Z",
+      "plot": "The team treats a fellow doctor wary of their skills. Meanwhile Wilson forces House in a roadtrip."
+    },
+    {
+      "episodeNumber": 21,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQyODUxNTM3Ml5BMl5BanBnXkFtZTgwNDE0ODEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Holding On",
+      "rating": {
+        "rating": 9,
+        "votes": 2480
+      },
+      "onAir": "2012-05-14T00:00:00.000Z",
+      "plot": "A patient's illness has its roots in the body and mind. Wilson, and House, tries to come to term with the cancer."
+    },
+    {
+      "episodeNumber": 22,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTkwNDI0Mjc4Nl5BMl5BanBnXkFtZTcwODU1MDk3Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+      "title": "Everybody Dies",
+      "rating": {
+        "rating": 9.3,
+        "votes": 5489
+      },
+      "onAir": "2012-05-21T00:00:00.000Z",
+      "plot": "Treating a drug addict patient results in House examining his life, his future and confronting his own personal demons."
+    }
+  ],
+  "version": 1
+}

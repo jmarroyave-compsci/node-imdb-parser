@@ -1,0 +1,278 @@
+{
+  "id": "tt5935574",
+  "info": {
+    "release": "2016-03-31T04:00:00.000Z",
+    "title": {
+      "default": "The Comedy Show Show",
+      "original": null,
+      "akas": []
+    },
+    "onAir": {
+      "start": 2016,
+      "end": null
+    },
+    "classification": "TV-PG",
+    "plot": "A show that takes you into some of the most interesting and offbeat comedy shows from around the country. A comedy show show.",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "tv_show",
+    "tagline": "",
+    "keywords": [
+      "show"
+    ],
+    "language": [
+      "English"
+    ],
+    "production": [],
+    "filmLocations": "",
+    "countryOfOrigin": "United States",
+    "ratings": {
+      "imdb": {
+        "rating": "5.5",
+        "votes": "10"
+      },
+      "metascore": null
+    },
+    "tech": {
+      "color": [
+        "Color"
+      ],
+      "soundmix": [],
+      "aspectRatio": "",
+      "runtime": ""
+    },
+    "links": {
+      "officialSite": []
+    }
+  },
+  "media": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E0ZTUzY2UtNGJjMS00ZWY1LWI2NTQtNzRmMzRlZjUyMjIzXkEyXkFqcGdeQXVyMjgxMjkyOTc@._V1_QL75_UY562_CR96,0,380,562_.jpg",
+    "photos": [
+      "https://m.media-amazon.com/images/M/MV5BNDI2YzYwOTEtNDRmZC00ZGJjLWExNjItY2Y3YjMyMjdlOGFmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjIxMjAyOGEtMDliYy00NjNkLTkxMmQtYmY3OWIzZWUyMWJkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZGRiZDM3NTMtMWE1Ni00YmY2LWFlNWEtZjc4MTk4ZDUzNjUzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzg2MDk5NTctZDE5Yy00MGRiLTliOGItOTlhMDQ5OWNhYmM1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BY2VlZjMwN2UtMTNkMS00MTA4LTg1NWEtNGJiMWQ3ODE4MjM5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDNiZGQ0MTItNWY5Mi00ZDIwLTg5NmMtNzAwMTBmNTk4MjY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDUyMzVjY2UtMmZlZC00Mjc2LTg2MWItYmY4ZWJkMTBlZjIyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzRkNzM0ZGQtYWQwZS00ZjI3LWJlYmQtMWFkMDFmYzY4OTEyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY280_CR47,0,280,280_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNmM0ZjQ4MWQtNjhjNC00YmU2LTgyNTgtMjUxZGNkNTc5MjFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY280_CR70,0,280,280_.jpg"
+    ],
+    "videos": []
+  },
+  "people": {
+    "directors": [
+      {
+        "name": "Caitlin Gill",
+        "id": "nm4177144"
+      },
+      {
+        "name": "Julio Torres",
+        "id": "nm7088580"
+      },
+      {
+        "name": "Eliza Skinner",
+        "id": "nm1982901"
+      }
+    ],
+    "stars": [
+      {
+        "name": "Caitlin Gill",
+        "id": "nm4177144"
+      },
+      {
+        "name": "Julio Torres",
+        "id": "nm7088580"
+      },
+      {
+        "name": "Eliza Skinner",
+        "id": "nm1982901"
+      }
+    ],
+    "cast": [
+      {
+        "id": "nm4177144",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYTVhNmJkMTctZDA2OS00NWExLWFhZWQtNmE2YTkzYTRlOTYzXkEyXkFqcGdeQXVyNjI5NDQxMDA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Caitlin Gill",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self"
+      },
+      {
+        "id": "nm7088580",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjQ3NTQwNzQyOF5BMl5BanBnXkFtZTgwMzEwMjMyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "name": "Julio Torres",
+        "episodes": 2,
+        "year": 2016,
+        "as": "Dane Cook"
+      },
+      {
+        "id": "nm1982901",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYThmZGEwZTktMDYyNS00Y2Q5LWIyZWMtMTg2NjY2YjRkMTA2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+        "name": "Eliza Skinner",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self"
+      },
+      {
+        "id": "nm8350528",
+        "name": "Bryan Cook",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self - Host"
+      },
+      {
+        "id": "nm3417385",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNDU5NTQ1OTQyMF5BMl5BanBnXkFtZTgwMDM0MDcwMTI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Rachel Bloom",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      },
+      {
+        "id": "nm0000413",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjExNjQwMTA1M15BMl5BanBnXkFtZTcwMzY1ODM4OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Janeane Garofalo",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self"
+      },
+      {
+        "id": "nm0452716",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjI4MzE4Mjg4OV5BMl5BanBnXkFtZTgwNjkzMTg3MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "name": "Laura Kightlinger",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      },
+      {
+        "id": "nm3490846",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNDkzNjcwNDM5N15BMl5BanBnXkFtZTgwMzU2NDI2MTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "name": "Jessica McKenna",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Forrest Gump"
+      },
+      {
+        "id": "nm1440402",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BN2Q3MmVlOTktYzY2YS00MmM0LWJhZTgtMzY3Njg1ZmFjMWQwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+        "name": "Nicole Parker",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Broadway Nerd"
+      },
+      {
+        "id": "nm1483349",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjE5MjM1NzY0OV5BMl5BanBnXkFtZTcwODkwODgxNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Eugene Mirman",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self - Host"
+      },
+      {
+        "id": "nm0021457",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BN2JhZGRiMjMtNDg1Mi00Mjg2LWIwODgtNmYxMGRlOGZjMmU4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "name": "Kevin Allison",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      },
+      {
+        "id": "nm4906642",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BZTcxN2VhYWEtYTZhNS00ODNlLWI0MDgtYWJkNzMzODIyOTBlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Mark Normand",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Kramer"
+      },
+      {
+        "id": "nm8352392",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BODI4NDdiN2UtNDBhNy00NjFlLThmMjktNjc3Mzg4MzA2ZDJkXkEyXkFqcGdeQXVyMTU5MDg4NTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Ts Madison",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      },
+      {
+        "id": "nm0454306",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQzNDQ5MV5BMl5BanBnXkFtZTcwNDczOTk3MQ@@._V1_QL75_UX140_CR0,20,140,140_.jpg",
+        "name": "Andy Kindler",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self"
+      },
+      {
+        "id": "nm4662098",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYTk1YTYyNzUtMTlkMy00YzMxLTgzZmMtY2U4NDIzNzhjNjk1XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "name": "Phoebe Robinson",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Self"
+      },
+      {
+        "id": "nm0672539",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTgxNTIyNzIxNV5BMl5BanBnXkFtZTgwODA1NTM2NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "name": "Eddie Pepitone",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      },
+      {
+        "id": "nm5093519",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTEwMzQ0OTI5OTJeQTJeQWpwZ15BbWU4MDI1Njk0NzAy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "name": "Demi Adejuyigbe",
+        "episodes": 1,
+        "year": 2016,
+        "as": "Tony the Auto Mechanic"
+      },
+      {
+        "id": "nm0528438",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYTAyYzIxOTMtNTI3Yi00OTdmLWI1OTEtMTEyMWRmMGFkMDRmXkEyXkFqcGdeQXVyMTU5MDQzNjI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "name": "Ron Lynch",
+        "episodes": 1,
+        "year": 2016,
+        "as": null
+      }
+    ]
+  },
+  "related": [
+    {
+      "id": "tt7107518",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmI5ODM0ZDYtYTA1Ni00MGE5LTkzZjctZDQwM2U2OWE1MGY0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+      "title": "The Standups"
+    },
+    {
+      "id": "tt12334820",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTU5M2NkNWMtYmZmNC00ODA3LWI4ZTAtZDI4NjAxMDYwYWJiXkEyXkFqcGdeQXVyMjkwNTE5NjE@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+      "title": "Mark Normand: Out to Lunch"
+    },
+    {
+      "id": "tt15380160",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE2ZDc5MzQtZDY1My00MjlhLWFlMzEtMDFmMTk5OWRiMmU0XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_QL75_UY207_CR116,0,140,207_.jpg",
+      "title": "Brightside"
+    },
+    {
+      "id": "tt15347932",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTUyNDAtMDM4Mi00MTBkLWFkZjMtYTM5M2U2ZmYyNzc3XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_QL75_UY207_CR117,0,140,207_.jpg",
+      "title": "Rim Shot"
+    },
+    {
+      "id": "tt7721046",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTNiY2ZmZDMtOTc4Ni00OGFhLThkYzItM2I2Zjc0Y2I1MzlmXkEyXkFqcGdeQXVyMjE3MTA1Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "Los Espookys"
+    },
+    {
+      "id": "tt5648202",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI0NjNiMjItMDQzMS00ODIyLThlNWUtZTM0YTUyOGEzMzg5XkEyXkFqcGdeQXVyNzY5MTE3OTQ@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+      "title": "Corporate"
+    },
+    {
+      "id": "tt11717610",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjZiZGYwODQtYmZmZi00ODYyLWJjMDgtMWIxNzJlOGU3MGYzXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "title": "American Auto"
+    }
+  ],
+  "seasons": 1,
+  "version": 8
+}

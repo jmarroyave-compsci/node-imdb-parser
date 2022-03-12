@@ -1,4 +1,11 @@
-import { parseTitle, saveResp, getExpectedResp, parseTitleEpisodes } from "./_.js"
+import { 
+  parseTitle, 
+  parseTitleKeywords,
+  parseTitleEpisodes,
+  parseEpisode,
+  getExpectedResp, 
+  saveResp
+} from "./_.js"
 import assert from 'assert';
 
 describe(`Parsing a title's page`, function() {
@@ -31,11 +38,32 @@ describe(`Parsing a title's page`, function() {
     assert.equal(JSON.stringify(resp), JSON.stringify(expected))
   });    
 
-  it(`Test Case 7`, async function() {
-    const caseNumber = 4
-    const resp = await parseTitleEpisodes(caseNumber)
+
+  it(`Test Case 5`, async function() {
+    const caseNumber = 5
+    const resp = await parseTitleKeywords(caseNumber)
     const expected = getExpectedResp( caseNumber );
     assert.equal(JSON.stringify(resp), JSON.stringify(expected))
   });    
 
+  it(`Test Case 6`, async function() {
+    const caseNumber = 6
+    const resp = await parseTitle(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
+
+  it(`Test Case 7`, async function() {
+    const caseNumber = 7
+    const resp = await parseEpisode(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
+
+  it(`Test Case 8`, async function() {
+    const caseNumber = 8
+    const resp = await parseTitleEpisodes(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
 });

@@ -1,20 +1,15 @@
-import { parseTitle, parseTitleKeywords, log, saveResp, parseTitleEpisodes } from "./_.js"
+import { 
+	parseTitle, 
+	parseEpisode,
+	parseTitleKeywords, 
+	parseTitleEpisodes,
+	log, saveResp } from "./_.js"
 
-const _parseTitle = async (caseNum) => {
-	var resp = await parseTitle(caseNum);
+const exec = async ( caseNum, parseFunction ) => {
+	const resp = await parseFunction(caseNum);
 	saveResp(caseNum, resp);
 }
 
-const _parseTitleKeywords = async (caseNum) => {
-	var resp = await parseTitleKeywords(caseNum);
-	saveResp(caseNum, resp);
-}
-
-const _parseTitleEpisodes = async (caseNum) => {
-	var resp = await parseTitleEpisodes(caseNum);
-	saveResp(caseNum, resp);
-}
-
-
-//await _parseTitle(6)
-await _parseTitleEpisodes(7)
+await exec(6, parseTitle)
+//await exec(7, parseEpisode)
+//await exec(8, parseTitleEpisodes)

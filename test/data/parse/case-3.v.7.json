@@ -67,5 +67,9 @@
     "cast": []
   },
   "related": [],
-  "version": 8
+  "seasons": [
+    1,
+    2
+  ],
+  "version": 7
 }

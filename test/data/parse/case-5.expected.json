@@ -1,0 +1,3433 @@
+{
+  "keywords": [
+    {
+      "name": "wisecrack humor",
+      "relevancy": {
+        "n": 69,
+        "of": 70,
+        "prop": 0.99
+      }
+    },
+    {
+      "name": "one liner",
+      "relevancy": {
+        "n": 47,
+        "of": 48,
+        "prop": 0.98
+      }
+    },
+    {
+      "name": "sabotage",
+      "relevancy": {
+        "n": 25,
+        "of": 25,
+        "prop": 1
+      }
+    },
+    {
+      "name": "deception",
+      "relevancy": {
+        "n": 21,
+        "of": 21,
+        "prop": 1
+      }
+    },
+    {
+      "name": "betrayal",
+      "relevancy": {
+        "n": 16,
+        "of": 16,
+        "prop": 1
+      }
+    },
+    {
+      "name": "hatred",
+      "relevancy": {
+        "n": 14,
+        "of": 14,
+        "prop": 1
+      }
+    },
+    {
+      "name": "dereliction of duty",
+      "relevancy": {
+        "n": 12,
+        "of": 12,
+        "prop": 1
+      }
+    },
+    {
+      "name": "stabbed in the eye",
+      "relevancy": {
+        "n": 10,
+        "of": 10,
+        "prop": 1
+      }
+    },
+    {
+      "name": "torture",
+      "relevancy": {
+        "n": 15,
+        "of": 16,
+        "prop": 0.94
+      }
+    },
+    {
+      "name": "death",
+      "relevancy": {
+        "n": 9,
+        "of": 9,
+        "prop": 1
+      }
+    },
+    {
+      "name": "corruption",
+      "relevancy": {
+        "n": 8,
+        "of": 8,
+        "prop": 1
+      }
+    },
+    {
+      "name": "plot hole",
+      "relevancy": {
+        "n": 5,
+        "of": 5,
+        "prop": 1
+      }
+    },
+    {
+      "name": "panic",
+      "relevancy": {
+        "n": 4,
+        "of": 4,
+        "prop": 1
+      }
+    },
+    {
+      "name": "mustache",
+      "relevancy": {
+        "n": 4,
+        "of": 4,
+        "prop": 1
+      }
+    },
+    {
+      "name": "paranoia",
+      "relevancy": {
+        "n": 6,
+        "of": 7,
+        "prop": 0.86
+      }
+    },
+    {
+      "name": "animal cruelty",
+      "relevancy": {
+        "n": 6,
+        "of": 7,
+        "prop": 0.86
+      }
+    },
+    {
+      "name": "crying woman",
+      "relevancy": {
+        "n": 9,
+        "of": 12,
+        "prop": 0.75
+      }
+    },
+    {
+      "name": "ignoring the problem",
+      "relevancy": {
+        "n": 3,
+        "of": 3,
+        "prop": 1
+      }
+    },
+    {
+      "name": "bipedal alien",
+      "relevancy": {
+        "n": 3,
+        "of": 3,
+        "prop": 1
+      }
+    },
+    {
+      "name": "mother son relationship",
+      "relevancy": {
+        "n": 5,
+        "of": 6,
+        "prop": 0.83
+      }
+    },
+    {
+      "name": "star died before release",
+      "relevancy": {
+        "n": 9,
+        "of": 13,
+        "prop": 0.69
+      }
+    },
+    {
+      "name": "mutiny",
+      "relevancy": {
+        "n": 4,
+        "of": 5,
+        "prop": 0.8
+      }
+    },
+    {
+      "name": "bad guys win",
+      "relevancy": {
+        "n": 4,
+        "of": 5,
+        "prop": 0.8
+      }
+    },
+    {
+      "name": "purple hair",
+      "relevancy": {
+        "n": 4,
+        "of": 5,
+        "prop": 0.8
+      }
+    },
+    {
+      "name": "discontinuous editing",
+      "relevancy": {
+        "n": 4,
+        "of": 5,
+        "prop": 0.8
+      }
+    },
+    {
+      "name": "bounty hunter",
+      "relevancy": {
+        "n": 2,
+        "of": 2,
+        "prop": 1
+      }
+    },
+    {
+      "name": "flashback",
+      "relevancy": {
+        "n": 3,
+        "of": 4,
+        "prop": 0.75
+      }
+    },
+    {
+      "name": "cut in half",
+      "relevancy": {
+        "n": 3,
+        "of": 4,
+        "prop": 0.75
+      }
+    },
+    {
+      "name": "ghost",
+      "relevancy": {
+        "n": 3,
+        "of": 4,
+        "prop": 0.75
+      }
+    },
+    {
+      "name": "topless man",
+      "relevancy": {
+        "n": 4,
+        "of": 6,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "master apprentice relationship",
+      "relevancy": {
+        "n": 4,
+        "of": 7,
+        "prop": 0.57
+      }
+    },
+    {
+      "name": "illusion",
+      "relevancy": {
+        "n": 3,
+        "of": 5,
+        "prop": 0.6
+      }
+    },
+    {
+      "name": "battlefield",
+      "relevancy": {
+        "n": 3,
+        "of": 5,
+        "prop": 0.6
+      }
+    },
+    {
+      "name": "escape",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "mother daughter relationship",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "tie fighter",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "island",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "teacher student relationship",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "training",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "jail cell",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "racetrack",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "ponytail",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "bangs",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "uncle nephew relationship",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "reference to han solo",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "reference to darth vader",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "kylo ren character",
+      "relevancy": {
+        "n": 2,
+        "of": 3,
+        "prop": 0.67
+      }
+    },
+    {
+      "name": "dual wield",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "slow motion scene",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "outer space",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "aerial battle",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "bomb",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "desperation",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "disarming someone",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "exile",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "disguise",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "speech impediment",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "code breaker",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "prisoner",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "prison guard",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "jailbreak",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "arrest",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "trench",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "waking up from a coma",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "manipulation",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "spear fishing",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "declining an invitation",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "puzzlement",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "female protagonist",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "overweight woman",
+      "relevancy": {
+        "n": 1,
+        "of": 1,
+        "prop": 1
+      }
+    },
+    {
+      "name": "topless male",
+      "relevancy": {
+        "n": 3,
+        "of": 6,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "returning character killed off",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "written by director",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "redemption",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "hero",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "self sacrifice",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "female engineer",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "hologram",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "insubordination",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "rebel base",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "admiral ackbar character",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "captain phasma character",
+      "relevancy": {
+        "n": 2,
+        "of": 4,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "sequel",
+      "relevancy": {
+        "n": 5,
+        "of": 16,
+        "prop": 0.31
+      }
+    },
+    {
+      "name": "part of trilogy",
+      "relevancy": {
+        "n": 6,
+        "of": 21,
+        "prop": 0.29
+      }
+    },
+    {
+      "name": "chewbacca character",
+      "relevancy": {
+        "n": 3,
+        "of": 8,
+        "prop": 0.38
+      }
+    },
+    {
+      "name": "casino",
+      "relevancy": {
+        "n": 2,
+        "of": 5,
+        "prop": 0.4
+      }
+    },
+    {
+      "name": "face slap",
+      "relevancy": {
+        "n": 2,
+        "of": 5,
+        "prop": 0.4
+      }
+    },
+    {
+      "name": "loss of sister",
+      "relevancy": {
+        "n": 2,
+        "of": 5,
+        "prop": 0.4
+      }
+    },
+    {
+      "name": "good versus evil",
+      "relevancy": {
+        "n": 2,
+        "of": 5,
+        "prop": 0.4
+      }
+    },
+    {
+      "name": "star wars",
+      "relevancy": {
+        "n": 6,
+        "of": 26,
+        "prop": 0.23
+      }
+    },
+    {
+      "name": "stormtrooper",
+      "relevancy": {
+        "n": 3,
+        "of": 10,
+        "prop": 0.3
+      }
+    },
+    {
+      "name": "princess leia organa character",
+      "relevancy": {
+        "n": 3,
+        "of": 11,
+        "prop": 0.27
+      }
+    },
+    {
+      "name": "luke skywalker character",
+      "relevancy": {
+        "n": 3,
+        "of": 11,
+        "prop": 0.27
+      }
+    },
+    {
+      "name": "eighth part",
+      "relevancy": {
+        "n": 3,
+        "of": 11,
+        "prop": 0.27
+      }
+    },
+    {
+      "name": "mentor",
+      "relevancy": {
+        "n": 2,
+        "of": 6,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "rebellion",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "explosion",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "droid",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "defying orders",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "temple",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "coma",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "aerial chase",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "crying",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "sister sister relationship",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "gunfight",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "alien creature",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "detonator",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "hope",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "hangar",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "throne room",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "moral dilemma",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "anger",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "supernatural power",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "throne guard",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "guard",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "salt mine",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "tracking device",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "stable",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "lens flare",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "resistance",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "resistance fighter",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "escape pod",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "helmet",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "power struggle",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "astral projection",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "metal hand",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "lightspeed",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "demotion",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "facial scar",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "slow chase",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "shutting the door on someone",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "gurney",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "alien",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "grief",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "leather jacket",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "brat",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "milking",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "rey character",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "finn character",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "bb 8 character",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "poe dameron character",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "crait the planet",
+      "relevancy": {
+        "n": 1,
+        "of": 2,
+        "prop": 0.5
+      }
+    },
+    {
+      "name": "jedi",
+      "relevancy": {
+        "n": 4,
+        "of": 19,
+        "prop": 0.21
+      }
+    },
+    {
+      "name": "orchestral music score",
+      "relevancy": {
+        "n": 2,
+        "of": 7,
+        "prop": 0.29
+      }
+    },
+    {
+      "name": "space western",
+      "relevancy": {
+        "n": 2,
+        "of": 7,
+        "prop": 0.29
+      }
+    },
+    {
+      "name": "stormtrooper character",
+      "relevancy": {
+        "n": 3,
+        "of": 13,
+        "prop": 0.23
+      }
+    },
+    {
+      "name": "space travel",
+      "relevancy": {
+        "n": 2,
+        "of": 8,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "lightsaber",
+      "relevancy": {
+        "n": 2,
+        "of": 8,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "r2 d2 character",
+      "relevancy": {
+        "n": 2,
+        "of": 9,
+        "prop": 0.22
+      }
+    },
+    {
+      "name": "famous score",
+      "relevancy": {
+        "n": 2,
+        "of": 9,
+        "prop": 0.22
+      }
+    },
+    {
+      "name": "yoda character",
+      "relevancy": {
+        "n": 2,
+        "of": 9,
+        "prop": 0.22
+      }
+    },
+    {
+      "name": "wookiee",
+      "relevancy": {
+        "n": 2,
+        "of": 9,
+        "prop": 0.22
+      }
+    },
+    {
+      "name": "space opera",
+      "relevancy": {
+        "n": 3,
+        "of": 17,
+        "prop": 0.18
+      }
+    },
+    {
+      "name": "prison break",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "mine",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "torso cut in half",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "chain of command",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "fight",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "sword fight",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "one against many",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "double cross",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "spacecraft",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "spaceship",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "space station",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "space battle",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "laser gun",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "spirituality",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "destiny",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "destruction",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "race against time",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "underwater scene",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "floating in space",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "social commentary",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "ocean",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "henchwoman",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "bo staff",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "little boy",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "human in outer space",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "star destroyer",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "waves crashing against rocks",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "porg",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "canto bight",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "ahch to the planet",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "maz kanata character",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "rose tico character",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "title spoken by character",
+      "relevancy": {
+        "n": 1,
+        "of": 3,
+        "prop": 0.33
+      }
+    },
+    {
+      "name": "c 3po character",
+      "relevancy": {
+        "n": 2,
+        "of": 10,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "millennium falcon",
+      "relevancy": {
+        "n": 2,
+        "of": 10,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "the force",
+      "relevancy": {
+        "n": 2,
+        "of": 10,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "jedi master",
+      "relevancy": {
+        "n": 2,
+        "of": 10,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "heroine",
+      "relevancy": {
+        "n": 2,
+        "of": 10,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "female warrior",
+      "relevancy": {
+        "n": 2,
+        "of": 12,
+        "prop": 0.17
+      }
+    },
+    {
+      "name": "battle",
+      "relevancy": null
+    },
+    {
+      "name": "exploding body",
+      "relevancy": null
+    },
+    {
+      "name": "exploding car",
+      "relevancy": null
+    },
+    {
+      "name": "exploding ship",
+      "relevancy": null
+    },
+    {
+      "name": "murder",
+      "relevancy": null
+    },
+    {
+      "name": "mercilessness",
+      "relevancy": null
+    },
+    {
+      "name": "kidnapping",
+      "relevancy": null
+    },
+    {
+      "name": "hostage",
+      "relevancy": null
+    },
+    {
+      "name": "held at gunpoint",
+      "relevancy": null
+    },
+    {
+      "name": "massacre",
+      "relevancy": null
+    },
+    {
+      "name": "action hero",
+      "relevancy": null
+    },
+    {
+      "name": "mission",
+      "relevancy": null
+    },
+    {
+      "name": "severed head",
+      "relevancy": null
+    },
+    {
+      "name": "decapitation",
+      "relevancy": null
+    },
+    {
+      "name": "pilot",
+      "relevancy": null
+    },
+    {
+      "name": "cannon",
+      "relevancy": null
+    },
+    {
+      "name": "new age",
+      "relevancy": null
+    },
+    {
+      "name": "orphan",
+      "relevancy": null
+    },
+    {
+      "name": "fear",
+      "relevancy": null
+    },
+    {
+      "name": "bombardment",
+      "relevancy": null
+    },
+    {
+      "name": "fire",
+      "relevancy": null
+    },
+    {
+      "name": "knocked out",
+      "relevancy": null
+    },
+    {
+      "name": "planet",
+      "relevancy": null
+    },
+    {
+      "name": "montage",
+      "relevancy": null
+    },
+    {
+      "name": "chicken",
+      "relevancy": null
+    },
+    {
+      "name": "campfire",
+      "relevancy": null
+    },
+    {
+      "name": "cave",
+      "relevancy": null
+    },
+    {
+      "name": "corpse",
+      "relevancy": null
+    },
+    {
+      "name": "throne",
+      "relevancy": null
+    },
+    {
+      "name": "levitation",
+      "relevancy": null
+    },
+    {
+      "name": "lightning",
+      "relevancy": null
+    },
+    {
+      "name": "mountain",
+      "relevancy": null
+    },
+    {
+      "name": "sea",
+      "relevancy": null
+    },
+    {
+      "name": "engineer",
+      "relevancy": null
+    },
+    {
+      "name": "general",
+      "relevancy": null
+    },
+    {
+      "name": "captain",
+      "relevancy": null
+    },
+    {
+      "name": "falling from height",
+      "relevancy": null
+    },
+    {
+      "name": "thief",
+      "relevancy": null
+    },
+    {
+      "name": "explosive decompression",
+      "relevancy": null
+    },
+    {
+      "name": "binoculars",
+      "relevancy": null
+    },
+    {
+      "name": "beach",
+      "relevancy": null
+    },
+    {
+      "name": "waterfall",
+      "relevancy": null
+    },
+    {
+      "name": "escape attempt",
+      "relevancy": null
+    },
+    {
+      "name": "slavery",
+      "relevancy": null
+    },
+    {
+      "name": "child slave",
+      "relevancy": null
+    },
+    {
+      "name": "warp speed",
+      "relevancy": null
+    },
+    {
+      "name": "force field",
+      "relevancy": null
+    },
+    {
+      "name": "suit of armor",
+      "relevancy": null
+    },
+    {
+      "name": "army",
+      "relevancy": null
+    },
+    {
+      "name": "scar",
+      "relevancy": null
+    },
+    {
+      "name": "mercenary",
+      "relevancy": null
+    },
+    {
+      "name": "fighting the system",
+      "relevancy": null
+    },
+    {
+      "name": "strangulation",
+      "relevancy": null
+    },
+    {
+      "name": "elevator",
+      "relevancy": null
+    },
+    {
+      "name": "darkness",
+      "relevancy": null
+    },
+    {
+      "name": "cynicism",
+      "relevancy": null
+    },
+    {
+      "name": "evacuation",
+      "relevancy": null
+    },
+    {
+      "name": "admiral",
+      "relevancy": null
+    },
+    {
+      "name": "mechanic",
+      "relevancy": null
+    },
+    {
+      "name": "slot machine",
+      "relevancy": null
+    },
+    {
+      "name": "henchman",
+      "relevancy": null
+    },
+    {
+      "name": "library",
+      "relevancy": null
+    },
+    {
+      "name": "shuttle craft",
+      "relevancy": null
+    },
+    {
+      "name": "execution",
+      "relevancy": null
+    },
+    {
+      "name": "severed arm",
+      "relevancy": null
+    },
+    {
+      "name": "stun gun",
+      "relevancy": null
+    },
+    {
+      "name": "flare",
+      "relevancy": null
+    },
+    {
+      "name": "servant",
+      "relevancy": null
+    },
+    {
+      "name": "light",
+      "relevancy": null
+    },
+    {
+      "name": "asteroid belt",
+      "relevancy": null
+    },
+    {
+      "name": "leader",
+      "relevancy": null
+    },
+    {
+      "name": "soldier",
+      "relevancy": null
+    },
+    {
+      "name": "cape",
+      "relevancy": null
+    },
+    {
+      "name": "secret mission",
+      "relevancy": null
+    },
+    {
+      "name": "on the run",
+      "relevancy": null
+    },
+    {
+      "name": "screaming",
+      "relevancy": null
+    },
+    {
+      "name": "broomstick",
+      "relevancy": null
+    },
+    {
+      "name": "stick fight",
+      "relevancy": null
+    },
+    {
+      "name": "tyranny",
+      "relevancy": null
+    },
+    {
+      "name": "near death experience",
+      "relevancy": null
+    },
+    {
+      "name": "tyrant",
+      "relevancy": null
+    },
+    {
+      "name": "starship bridge",
+      "relevancy": null
+    },
+    {
+      "name": "actress reprises previous role",
+      "relevancy": null
+    },
+    {
+      "name": "a wing starfighter",
+      "relevancy": null
+    },
+    {
+      "name": "crossguard lightsaber",
+      "relevancy": null
+    },
+    {
+      "name": "actor reprises previous role",
+      "relevancy": null
+    },
+    {
+      "name": "starship fleet",
+      "relevancy": null
+    },
+    {
+      "name": "humanoid droid",
+      "relevancy": null
+    },
+    {
+      "name": "weapons fire",
+      "relevancy": null
+    },
+    {
+      "name": "stun attack",
+      "relevancy": null
+    },
+    {
+      "name": "wrist restraints",
+      "relevancy": null
+    },
+    {
+      "name": "exploding starship",
+      "relevancy": null
+    },
+    {
+      "name": "starfighter pilot",
+      "relevancy": null
+    },
+    {
+      "name": "outburst",
+      "relevancy": null
+    },
+    {
+      "name": "cybernetic hand",
+      "relevancy": null
+    },
+    {
+      "name": "male pilot",
+      "relevancy": null
+    },
+    {
+      "name": "reflection",
+      "relevancy": null
+    },
+    {
+      "name": "bearded man",
+      "relevancy": null
+    },
+    {
+      "name": "traitor",
+      "relevancy": null
+    },
+    {
+      "name": "fish",
+      "relevancy": null
+    },
+    {
+      "name": "running away",
+      "relevancy": null
+    },
+    {
+      "name": "fleeing",
+      "relevancy": null
+    },
+    {
+      "name": "exposed",
+      "relevancy": null
+    },
+    {
+      "name": "exposure",
+      "relevancy": null
+    },
+    {
+      "name": "galaxy",
+      "relevancy": null
+    },
+    {
+      "name": "antenna",
+      "relevancy": null
+    },
+    {
+      "name": "commander",
+      "relevancy": null
+    },
+    {
+      "name": "fishing",
+      "relevancy": null
+    },
+    {
+      "name": "jump suit",
+      "relevancy": null
+    },
+    {
+      "name": "welding",
+      "relevancy": null
+    },
+    {
+      "name": "red light",
+      "relevancy": null
+    },
+    {
+      "name": "earring",
+      "relevancy": null
+    },
+    {
+      "name": "goggles",
+      "relevancy": null
+    },
+    {
+      "name": "oxygen mask",
+      "relevancy": null
+    },
+    {
+      "name": "on the edge",
+      "relevancy": null
+    },
+    {
+      "name": "falling down",
+      "relevancy": null
+    },
+    {
+      "name": "pod",
+      "relevancy": null
+    },
+    {
+      "name": "reprimand",
+      "relevancy": null
+    },
+    {
+      "name": "equipment",
+      "relevancy": null
+    },
+    {
+      "name": "twilight",
+      "relevancy": null
+    },
+    {
+      "name": "cliff",
+      "relevancy": null
+    },
+    {
+      "name": "strap",
+      "relevancy": null
+    },
+    {
+      "name": "first meeting",
+      "relevancy": null
+    },
+    {
+      "name": "falling down a shaft",
+      "relevancy": null
+    },
+    {
+      "name": "knocking on a door",
+      "relevancy": null
+    },
+    {
+      "name": "put down",
+      "relevancy": null
+    },
+    {
+      "name": "waves",
+      "relevancy": null
+    },
+    {
+      "name": "closing a door on someone",
+      "relevancy": null
+    },
+    {
+      "name": "answer",
+      "relevancy": null
+    },
+    {
+      "name": "question",
+      "relevancy": null
+    },
+    {
+      "name": "crew",
+      "relevancy": null
+    },
+    {
+      "name": "ladder",
+      "relevancy": null
+    },
+    {
+      "name": "venting steam",
+      "relevancy": null
+    },
+    {
+      "name": "venting",
+      "relevancy": null
+    },
+    {
+      "name": "injury",
+      "relevancy": null
+    },
+    {
+      "name": "stretcher",
+      "relevancy": null
+    },
+    {
+      "name": "sadness",
+      "relevancy": null
+    },
+    {
+      "name": "skewer",
+      "relevancy": null
+    },
+    {
+      "name": "bbq",
+      "relevancy": null
+    },
+    {
+      "name": "barbecue",
+      "relevancy": null
+    },
+    {
+      "name": "not taking no for an answer",
+      "relevancy": null
+    },
+    {
+      "name": "avatar",
+      "relevancy": null
+    },
+    {
+      "name": "locker",
+      "relevancy": null
+    },
+    {
+      "name": "backpack",
+      "relevancy": null
+    },
+    {
+      "name": "rock",
+      "relevancy": null
+    },
+    {
+      "name": "repairs",
+      "relevancy": null
+    },
+    {
+      "name": "natives",
+      "relevancy": null
+    },
+    {
+      "name": "keepsake",
+      "relevancy": null
+    },
+    {
+      "name": "startled",
+      "relevancy": null
+    },
+    {
+      "name": "star struck",
+      "relevancy": null
+    },
+    {
+      "name": "paralysis",
+      "relevancy": null
+    },
+    {
+      "name": "paralyzed",
+      "relevancy": null
+    },
+    {
+      "name": "paralyzed man",
+      "relevancy": null
+    },
+    {
+      "name": "medical information",
+      "relevancy": null
+    },
+    {
+      "name": "stubble",
+      "relevancy": null
+    },
+    {
+      "name": "cavern",
+      "relevancy": null
+    },
+    {
+      "name": "isolation",
+      "relevancy": null
+    },
+    {
+      "name": "pebble",
+      "relevancy": null
+    },
+    {
+      "name": "elements",
+      "relevancy": null
+    },
+    {
+      "name": "deja vu",
+      "relevancy": null
+    },
+    {
+      "name": "splash of water",
+      "relevancy": null
+    },
+    {
+      "name": "water trough",
+      "relevancy": null
+    },
+    {
+      "name": "rough waters",
+      "relevancy": null
+    },
+    {
+      "name": "full moon",
+      "relevancy": null
+    },
+    {
+      "name": "fan",
+      "relevancy": null
+    },
+    {
+      "name": "dwarf",
+      "relevancy": null
+    },
+    {
+      "name": "tuxedo",
+      "relevancy": null
+    },
+    {
+      "name": "cork",
+      "relevancy": null
+    },
+    {
+      "name": "bar",
+      "relevancy": null
+    },
+    {
+      "name": "bartender",
+      "relevancy": null
+    },
+    {
+      "name": "alien bartender",
+      "relevancy": null
+    },
+    {
+      "name": "white gloves",
+      "relevancy": null
+    },
+    {
+      "name": "mustached man",
+      "relevancy": null
+    },
+    {
+      "name": "bouncer",
+      "relevancy": null
+    },
+    {
+      "name": "white streak in hair",
+      "relevancy": null
+    },
+    {
+      "name": "living with uncle",
+      "relevancy": null
+    },
+    {
+      "name": "student",
+      "relevancy": null
+    },
+    {
+      "name": "teacher",
+      "relevancy": null
+    },
+    {
+      "name": "student teacher",
+      "relevancy": null
+    },
+    {
+      "name": "lesson",
+      "relevancy": null
+    },
+    {
+      "name": "overhearing",
+      "relevancy": null
+    },
+    {
+      "name": "behind bars",
+      "relevancy": null
+    },
+    {
+      "name": "jail mate",
+      "relevancy": null
+    },
+    {
+      "name": "flashlight",
+      "relevancy": null
+    },
+    {
+      "name": "torch",
+      "relevancy": null
+    },
+    {
+      "name": "police",
+      "relevancy": null
+    },
+    {
+      "name": "herd",
+      "relevancy": null
+    },
+    {
+      "name": "opera singer",
+      "relevancy": null
+    },
+    {
+      "name": "pastry",
+      "relevancy": null
+    },
+    {
+      "name": "patisserie",
+      "relevancy": null
+    },
+    {
+      "name": "cruiser",
+      "relevancy": null
+    },
+    {
+      "name": "tumult",
+      "relevancy": null
+    },
+    {
+      "name": "pandemonium",
+      "relevancy": null
+    },
+    {
+      "name": "ironing board",
+      "relevancy": null
+    },
+    {
+      "name": "cloaked figure",
+      "relevancy": null
+    },
+    {
+      "name": "standing in the rain",
+      "relevancy": null
+    },
+    {
+      "name": "apparition",
+      "relevancy": null
+    },
+    {
+      "name": "reunion",
+      "relevancy": null
+    },
+    {
+      "name": "kicked out",
+      "relevancy": null
+    },
+    {
+      "name": "escorted out",
+      "relevancy": null
+    },
+    {
+      "name": "mysterious figure",
+      "relevancy": null
+    },
+    {
+      "name": "child in jeopardy",
+      "relevancy": null
+    },
+    {
+      "name": "saving a life",
+      "relevancy": null
+    },
+    {
+      "name": "close up of eye",
+      "relevancy": null
+    },
+    {
+      "name": "spaceship explosion",
+      "relevancy": null
+    },
+    {
+      "name": "sad eyes",
+      "relevancy": null
+    },
+    {
+      "name": "cooking over an open fire",
+      "relevancy": null
+    },
+    {
+      "name": "close up of eyes",
+      "relevancy": null
+    },
+    {
+      "name": "caught in the rain",
+      "relevancy": null
+    },
+    {
+      "name": "lightning strike",
+      "relevancy": null
+    },
+    {
+      "name": "outnumbered",
+      "relevancy": null
+    },
+    {
+      "name": "confrontation",
+      "relevancy": null
+    },
+    {
+      "name": "handheld weapon",
+      "relevancy": null
+    },
+    {
+      "name": "shared universe",
+      "relevancy": null
+    },
+    {
+      "name": "cellmate",
+      "relevancy": null
+    },
+    {
+      "name": "spacecraft cockpit",
+      "relevancy": null
+    },
+    {
+      "name": "knapsack",
+      "relevancy": null
+    },
+    {
+      "name": "opening crawl",
+      "relevancy": null
+    },
+    {
+      "name": "controversy",
+      "relevancy": null
+    },
+    {
+      "name": "general hux character",
+      "relevancy": null
+    },
+    {
+      "name": "supreme leader snoke character",
+      "relevancy": null
+    },
+    {
+      "name": "political",
+      "relevancy": null
+    },
+    {
+      "name": "confusing",
+      "relevancy": null
+    },
+    {
+      "name": "breaking down a door",
+      "relevancy": null
+    },
+    {
+      "name": "psychotronic film",
+      "relevancy": null
+    },
+    {
+      "name": "disney star wars",
+      "relevancy": null
+    },
+    {
+      "name": "reference to reylo",
+      "relevancy": null
+    },
+    {
+      "name": "martial arts",
+      "relevancy": null
+    },
+    {
+      "name": "hand to hand combat",
+      "relevancy": null
+    },
+    {
+      "name": "ensemble cast",
+      "relevancy": null
+    },
+    {
+      "name": "film starts with text",
+      "relevancy": null
+    },
+    {
+      "name": "open ended",
+      "relevancy": null
+    },
+    {
+      "name": "billion dollar club",
+      "relevancy": null
+    },
+    {
+      "name": "cgi character in a live action movie",
+      "relevancy": null
+    },
+    {
+      "name": "interracial relationship",
+      "relevancy": null
+    },
+    {
+      "name": "prank the audience",
+      "relevancy": null
+    },
+    {
+      "name": "roman numeral in title",
+      "relevancy": null
+    },
+    {
+      "name": "roman numbered sequel",
+      "relevancy": null
+    },
+    {
+      "name": "reylo",
+      "relevancy": null
+    },
+    {
+      "name": "colon in title",
+      "relevancy": null
+    },
+    {
+      "name": "seven word title",
+      "relevancy": null
+    },
+    {
+      "name": "deep voice",
+      "relevancy": null
+    },
+    {
+      "name": "weapon",
+      "relevancy": null
+    },
+    {
+      "name": "bad robot productions",
+      "relevancy": null
+    },
+    {
+      "name": "sequel baiting",
+      "relevancy": null
+    },
+    {
+      "name": "mentor protege relationship",
+      "relevancy": null
+    },
+    {
+      "name": "music by john williams",
+      "relevancy": null
+    },
+    {
+      "name": "action girl",
+      "relevancy": null
+    },
+    {
+      "name": "man wears black",
+      "relevancy": null
+    },
+    {
+      "name": "nightgown",
+      "relevancy": null
+    },
+    {
+      "name": "nosebleed",
+      "relevancy": null
+    },
+    {
+      "name": "woman falls",
+      "relevancy": null
+    },
+    {
+      "name": "woman wears a mask",
+      "relevancy": null
+    },
+    {
+      "name": "aerial camera shot",
+      "relevancy": null
+    },
+    {
+      "name": "male villain",
+      "relevancy": null
+    },
+    {
+      "name": "male antagonist",
+      "relevancy": null
+    },
+    {
+      "name": "falling into a hole",
+      "relevancy": null
+    },
+    {
+      "name": "white female lead in a diverse cast",
+      "relevancy": null
+    },
+    {
+      "name": "title directed by male",
+      "relevancy": null
+    },
+    {
+      "name": "title directed by man",
+      "relevancy": null
+    },
+    {
+      "name": "title written by male",
+      "relevancy": null
+    },
+    {
+      "name": "police officer",
+      "relevancy": null
+    },
+    {
+      "name": "male police officer",
+      "relevancy": null
+    },
+    {
+      "name": "astronomical object in title",
+      "relevancy": null
+    },
+    {
+      "name": "space sci fi",
+      "relevancy": null
+    },
+    {
+      "name": "space adventure",
+      "relevancy": null
+    },
+    {
+      "name": "timeframe after 2050",
+      "relevancy": null
+    },
+    {
+      "name": "character repeats someone else's dialogue",
+      "relevancy": null
+    },
+    {
+      "name": "epic adventure",
+      "relevancy": null
+    },
+    {
+      "name": "space opera sci fi",
+      "relevancy": null
+    },
+    {
+      "name": "second in trilogy",
+      "relevancy": null
+    },
+    {
+      "name": "twins",
+      "relevancy": null
+    },
+    {
+      "name": "twin sister",
+      "relevancy": null
+    },
+    {
+      "name": "twin brother",
+      "relevancy": null
+    },
+    {
+      "name": "fraternal twins",
+      "relevancy": null
+    },
+    {
+      "name": "telepathy",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "revenge",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "science fantasy",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "fighter pilot",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "heroism",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "yin and yang",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "little girl",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "protege",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "starfighter",
+      "relevancy": {
+        "n": 1,
+        "of": 4,
+        "prop": 0.25
+      }
+    },
+    {
+      "name": "rebel",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "starship",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "female general",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "female bounty hunter",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "christ allegory",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "female mechanic",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "part of series",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "x wing starfighter",
+      "relevancy": {
+        "n": 1,
+        "of": 5,
+        "prop": 0.2
+      }
+    },
+    {
+      "name": "strong female lead",
+      "relevancy": {
+        "n": 2,
+        "of": 17,
+        "prop": 0.12
+      }
+    },
+    {
+      "name": "hyperspace",
+      "relevancy": {
+        "n": 1,
+        "of": 6,
+        "prop": 0.17
+      }
+    },
+    {
+      "name": "vision",
+      "relevancy": {
+        "n": 1,
+        "of": 6,
+        "prop": 0.17
+      }
+    },
+    {
+      "name": "female mercenary",
+      "relevancy": {
+        "n": 1,
+        "of": 6,
+        "prop": 0.17
+      }
+    },
+    {
+      "name": "space war",
+      "relevancy": {
+        "n": 1,
+        "of": 6,
+        "prop": 0.17
+      }
+    },
+    {
+      "name": "strong female character",
+      "relevancy": {
+        "n": 2,
+        "of": 19,
+        "prop": 0.11
+      }
+    },
+    {
+      "name": "jedi training",
+      "relevancy": {
+        "n": 1,
+        "of": 7,
+        "prop": 0.14
+      }
+    },
+    {
+      "name": "action heroine",
+      "relevancy": {
+        "n": 1,
+        "of": 9,
+        "prop": 0.11
+      }
+    },
+    {
+      "name": "tough girl",
+      "relevancy": {
+        "n": 1,
+        "of": 9,
+        "prop": 0.11
+      }
+    },
+    {
+      "name": "female fighter",
+      "relevancy": {
+        "n": 1,
+        "of": 11,
+        "prop": 0.09
+      }
+    },
+    {
+      "name": "female soldier",
+      "relevancy": {
+        "n": 1,
+        "of": 12,
+        "prop": 0.08
+      }
+    },
+    {
+      "name": "female pilot",
+      "relevancy": {
+        "n": 1,
+        "of": 12,
+        "prop": 0.08
+      }
+    },
+    {
+      "name": "shootout",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "combat",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "sword duel",
+      "relevancy": {
+        "n": 0,
+        "of": 3,
+        "prop": 0
+      }
+    },
+    {
+      "name": "fistfight",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "brawl",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "stylized violence",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "chase",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "two against many",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "flying car",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "creature",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "ambush",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "fight to the death",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "epic battle",
+      "relevancy": {
+        "n": 0,
+        "of": 4,
+        "prop": 0
+      }
+    },
+    {
+      "name": "showdown",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "final showdown",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "violence",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "brutality",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "rescue",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "anti hero",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "tough guy",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "opening action scene",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "warrior",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "dogfight",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "aerial combat",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "laser",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "mysticism",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "heroic bloodshed",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "wuxia fiction",
+      "relevancy": {
+        "n": 0,
+        "of": 3,
+        "prop": 0
+      }
+    },
+    {
+      "name": "danger",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "survival",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "chaos",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "blockbuster",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "epic",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "no opening credits",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "electrocution",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "beard",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "death of sister",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "telekinesis",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "mind control",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "mind reading",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "heavy rain",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "rainstorm",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "bravery",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "snow",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "water",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "courage",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "stutter",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "prison",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "handcuffs",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "child slavery",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "fictional war",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "energy shield",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "spear",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "radio",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "asteroid",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "saga",
+      "relevancy": {
+        "n": 0,
+        "of": 3,
+        "prop": 0
+      }
+    },
+    {
+      "name": "top secret",
+      "relevancy": {
+        "n": 0,
+        "of": 3,
+        "prop": 0
+      }
+    },
+    {
+      "name": "repeated line",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "slave",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "cameo",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "honor",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "vice admiral",
+      "relevancy": {
+        "n": 0,
+        "of": 2,
+        "prop": 0
+      }
+    },
+    {
+      "name": "astromech droid",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "blaster pistol",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "humanoid robot",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "star system",
+      "relevancy": {
+        "n": 0,
+        "of": 1,
+        "prop": 0
+      }
+    },
+    {
+      "name": "satellite dish",
+      "relevancy": {
+        "n": 0,
+        "of": 4,
+        "prop": 0
+      }
+    },
+    {
+      "name": "demanding an explanation",
+      "relevancy": {
+        "n": 0,
+        "of": 5,
+        "prop": 0
+      }
+    },
+    {
+      "name": "book burning",
+      "relevancy": {
+        "n": 0,
+        "of": 3,
+        "prop": 0
+      }
+    },
+    {
+      "name": "surprise ending",
+      "relevancy": {
+        "n": 0,
+        "of": 17,
+        "prop": 0
+      }
+    }
+  ],
+  "version": 1
+}
