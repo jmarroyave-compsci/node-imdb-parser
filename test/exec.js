@@ -11,5 +11,6 @@ const exec = async ( caseNum, parseFunction ) => {
 }
 
 await exec(6, parseTitle)
+await exec(10, parseTitle)
 //await exec(7, parseEpisode)
 //await exec(8, parseTitleEpisodes)

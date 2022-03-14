@@ -66,4 +66,21 @@ describe(`Parsing a title's page`, function() {
     const expected = getExpectedResp( caseNumber );
     assert.equal(JSON.stringify(resp), JSON.stringify(expected))
   });    
+
+  it(`Test Case 9`, async function() {
+    const caseNumber = 9
+    const resp = await parseTitle(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
+
+  it(`Test Case 10`, async function() {
+    const caseNumber = 10
+    const resp = await parseTitle(caseNumber)
+    const expected = getExpectedResp( caseNumber );
+    assert.equal(JSON.stringify(resp), JSON.stringify(expected))
+  });    
+
+
+
 });
